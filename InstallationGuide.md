@@ -68,7 +68,7 @@ Before you install TechDocs, ensure your system meets the following requirements
 ### Downloading the Package
 
 You can download the latest package from our official releases page:  
-[Download TechDocs Package](https://github.com/your-org/TechDocs/releases)  
+[Download TechDocs Package](https://cran.r-project.org/web/packages/TBox/index.html)  
 > **Issue:** The link above currently points to an old version archive and may not reflect the latest changes.
 
 ### Installing via NPM
